@@ -213,7 +213,7 @@ function drawA() {
 }
 ```
 
-T'yi üçgenlerden oluşan bir çizgi ve üçgenden oluşturdum.
+T'yi üçgenlerden oluşan bir çizgi ve bir üçgenden oluşturdum.
 
 ```
 function drawT() {
