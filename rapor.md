@@ -224,6 +224,7 @@ function drawT() {
 
 }
 ```
-
+# SONUC 
+![sonuc](/sonuc.png)
 
 
