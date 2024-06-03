@@ -201,6 +201,17 @@ function drawR() {
 ```
 
 A'yı ötelenmiş ve ölçeklendirilmiş bir üçgenden oluşturdum.
+```
+function drawA() {
+
+    let triangle = translateTriangleVertices(0.24, 0.066, defaultMatrix)
+    triangle = scaleTriangleVertices(0.75, 1.48, triangle)
+
+    drawTriangle(triangle)
+
+
+}
+```
 
 T'yi üçgenlerden oluşan bir çizgi ve üçgenden oluşturdum.
 
@@ -224,7 +235,7 @@ function drawT() {
 
 }
 ```
-# SONUC 
+# SONUÇ 
 ![sonuc](/sonuc.png)
 
 
