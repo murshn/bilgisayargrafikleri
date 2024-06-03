@@ -82,7 +82,7 @@ function square() {
 }
 ```
 
-Harfleri oluştururken gerekeceği için dik çizgi oluşturan üçgenlerin koordinatlarını dönen fonksiyon oluşturdum. 
+Harfleri oluştururken gerekeceği için dik çizgi fonksiyonu oluşturdum. Bu fonksiyon da üçgenlerin koordinatlarını içeren dizi dönüyor. 
 
 ```
 
