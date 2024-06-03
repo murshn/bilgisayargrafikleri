@@ -167,7 +167,7 @@ function drawU() {
 
 ```
 
-R'yi oluştururken bir üçgenlerden oluşan çizgi iki üçgen kullandım. Üçgenlere öteleme, bükme, ölçeklendirme, döndürme işlemlerini uyguladım.
+R'yi oluştururken bir üçgenlerden oluşan çizgi, iki üçgen kullandım. Üçgenlere öteleme, bükme, ölçeklendirme, döndürme işlemlerini uyguladım.
 
 ```
 function drawR() {
